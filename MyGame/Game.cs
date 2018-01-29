@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Drawing;
 using System.IO;
-//Брижак Андрей Домашнее задание к уроку 3 Продвинутый курс C#
+//Брижак Андрей Домашнее задание к уроку 4 Продвинутый курс C#
 
 namespace MyGame
 {
